@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_forms"
+        android:icon="@drawable/forms2"
+        android:title="Forms" />
+
+    <item
+        android:id="@+id/navigation_training"
+        android:icon="@drawable/training"
+        android:title="Training" />
+
+    <item
+        android:id="@+id/navigation_events"
+        android:icon="@drawable/event"
+        android:title="Events" />
+
+
+
+</menu>
